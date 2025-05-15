@@ -1,3 +1,3 @@
-to run on your machine:\n\n
+to run on your machine:
 - npm install
 - node .
